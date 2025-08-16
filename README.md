@@ -5,4 +5,6 @@ A vending machine with a password system adds a layer of security and control to
 
 Once the correct password is entered, the machine activates the product selection mode. The user can then input the product number corresponding to their desired snack. After confirmation, the machine processes the request and dispenses the selected snack through the dispensing slot.<br>
 
-This type of vending machine is especially useful in schools, offices, or restricted areas where controlled snack distribution is necessary. It helps prevent misuse, reduces theft. Overall, the password-protected vending machine combines convenience with controlled access, making it a smart choice for secure and efficient snack distribution.
+This type of vending machine is especially useful in schools, offices, or restricted areas where controlled snack distribution is necessary. It helps prevent misuse, reduces theft. Overall, the password-protected vending machine combines convenience with controlled access, making it a smart choice for secure and efficient snack distribution.<br>
+
+Made By Yashraj Sahu and Kushagra Rathore.
