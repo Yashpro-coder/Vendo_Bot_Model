@@ -1,5 +1,5 @@
 # Vendo_Bot_Model
-Vendo-Bot: Smarter Choices, Faster Snacks
+Vendo-Bot: Smarter Choices, Faster Snacks<br>
 <br>
 A vending machine with a password system adds a layer of security and control to the snack dispensing process.  It looks like a regular vending machine, but it includes a password entry. When a user approaches the machine, they must enter a specific password to unlock the selection system. This password can be predefined by the operator or user, ensuring that only authorized individuals can access the snacks.<br>
 
